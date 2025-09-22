@@ -12,4 +12,4 @@ To developed the model, series of layers are included in the Sequential wrapper 
 ### Kernels ###
 1. Edge detection kernel 
 
-    >![alt]("vertical-edge-detection-horizontal-edge-detection.png")
+    >![alt](vertical-edge-detection-horizontal-edge-detection.png)
