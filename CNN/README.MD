@@ -9,6 +9,8 @@ To developed the model, series of layers are included in the Sequential wrapper 
 
 ![CNN](images/cnn.png)
 
+![kernels](images/kernels.png)
+
 ### Kernels ###
 1. Edge detection kernel 
 
