@@ -28,8 +28,5 @@ This project implements a convolutional neural network (CNN) to colorize graysca
   4. Scale ab channels to `[-1,1]`  
 
 ---
+!(colorizer results)[../images/colorizer.png]
 
-## Installation
-
-```bash
-pip install tensorflow tensorflow-io tensorflow-datasets matplotlib streamlit
