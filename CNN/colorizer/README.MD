@@ -28,5 +28,5 @@ This project implements a convolutional neural network (CNN) to colorize graysca
   4. Scale ab channels to `[-1,1]`  
 
 ---
-!(colorizer results)[../images/colorizer.png]
+![colorizer results](../images/colorizer.png)
 
